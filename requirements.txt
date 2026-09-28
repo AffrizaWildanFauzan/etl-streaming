@@ -1,0 +1,7 @@
+confluent-kafka>=2.5,<3
+websockets>=13,<16
+psycopg2-binary>=2.9,<3
+streamlit>=1.37,<2
+plotly>=5.20,<7
+pandas>=2.2,<3
+sqlalchemy>=2.0,<3
